@@ -26,6 +26,8 @@ This is a basic Flask web application that demonstrates a simple form submission
 
 ###  Running
 
+```bash
+
 python -m venv venv
 source venv/bin/activate  # On Windows, use 'venv\Scripts\activate'
 
