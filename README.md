@@ -24,6 +24,7 @@ This is a basic Flask web application that demonstrates a simple form submission
    git clone https://github.com/your-username/flask-basic-web-app.git
    cd flask-basic-web-app
 
+###  Running
 
 python -m venv venv
 source venv/bin/activate  # On Windows, use 'venv\Scripts\activate'
